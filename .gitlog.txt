@@ -1,0 +1,20 @@
+commit 759319a71c35ba1e0c26cfc2f13313fc9430fba8 (HEAD -> main, origin/main, origin/HEAD)
+Author: MARCO ALEJANDRO MONROY ROUSSELIN <mmonroyr3@miumg.edu.gt>
+Date:   Mon Nov 11 09:33:58 2024 -0600
+
+    Subida Final completo
+
+commit 2e96b44d1a5a86ad4d0574425055d2da2c9f7e81 (origin/RamaTransaccional0901-21-843, origin/RamaMantenimientos0901-21-843, origin/RamaContenedor0901-21-843, RamaTransaccional0901-21-843, RamaMantenimientos0901-21-843, RamaContenedor0901-21-843)
+Merge: 8b7274a d459778
+Author: MarcoMonroy20 <mmonroyr3@miumg.edu.gt>
+Date:   Mon Nov 11 08:55:38 2024 -0600
+
+    Merge pull request #2 from MarcoMonroy20/RamaContenedor0901-21-843
+
+    Merge pull request #1 from MarcoMonroy20/main
+
+commit d459778e89121c622b3a76e34182293bc2178d01
+Merge: 796373d 8b7274a
+Author: MarcoMonroy20 <mmonroyr3@miumg.edu.gt>
+Date:   Mon Nov 11 08:54:58 2024 -0600
+:
